@@ -1,0 +1,6 @@
+{
+  "name": "Сүхбат Мөнх-Оргил — 3D Portfolio",
+  "description": "Сүхбат Мөнх-Оргил — Full-Stack хөгжүүлэгч, UI/UX сонирхогчийн интерактив 3D портфолио веб сайт.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
